@@ -33,17 +33,12 @@ To make play creation faster, the app will have ready-made player icons and cust
 
 Key Features:
     
-    Hand-Drawn Play Creation: Coaches can sketch plays freely using the Apple Pencil, just like writing on paper.
-    
-    Customizable Player Icons and Formations: The app will provide pre-made player icons and allow coaches to save their favorite formations.
-    
-    Play Organization: Coaches can group and label plays by type (e.g., offensive plays, defensive plays, special teams) for quick access.
-
-    Play Simulation: Coaches can preview plays and watch simple simulations of routes and movements to see how plays would work in real-time.
-
-    Collaboration and Sharing: Teams can share playbooks with other coaches or players through cloud storage. Everyone will have access to the most updated version.
-
-    Cross-Platform Compatibility: The app will work on iPads for easy drawing and Macs for additional play management.
+Hand-Drawn Play Creation: Coaches can sketch plays freely using the Apple Pencil, just like writing on paper.    
+Customizable Player Icons and Formations: The app will provide pre-made player icons and allow coaches to save their favorite formations.
+Play Organization: Coaches can group and label plays by type (e.g., offensive plays, defensive plays, special teams) for quick access.
+Play Simulation: Coaches can preview plays and watch simple simulations of routes and movements to see how plays would work in real-time.
+Collaboration and Sharing: Teams can share playbooks with other coaches or players through cloud storage. Everyone will have access to the most updated version.
+Cross-Platform Compatibility: The app will work on iPads for easy drawing and Macs for additional play management.
 
 This app will save coaches valuable time by making the process of drawing and organizing plays much simpler. It will also provide a visual and interactive experience that helps coaches and players better understand strategies. By combining the flexibility of freehand drawing with smart tools for labeling and simulating plays, this app will be a game-changer in the world of football strategy.
 
